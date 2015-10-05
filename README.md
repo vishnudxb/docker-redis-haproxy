@@ -1,2 +1,2 @@
 # docker-redis-haproxy
-A small docker container for redis 
+A small haproxy docker container for redis 
